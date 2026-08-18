@@ -52,3 +52,69 @@ I'm interested in building products that combine **software engineering, data an
 
 📦 SmartStock AI
    → AI-powered inventory intelligence platform
+🛠️ Tech Stack
+Languages
+<p align="left"> <img src="https://skillicons.dev/icons?i=java,js,python,mysql"/> </p>
+Frontend
+<p align="left"> <img src="https://skillicons.dev/icons?i=react,vite,html,css"/> </p>
+Backend & Database
+<p align="left"> <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mysql"/> </p>
+AI / Machine Learning
+<p align="left"> <img src="https://skillicons.dev/icons?i=python,tensorflow"/> </p>
+Tools
+<p align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/> </p>
+
+⭐ Featured Projects
+📦 SmartStock AI
+
+AI-powered Inventory Intelligence Platform
+
+A full-stack platform for inventory management, sales analytics, demand forecasting and AI-powered business insights.
+
+Tech: React • Node.js • Express • MySQL • Python • Flask • Machine Learning
+
+🔗 View Repository
+
+🌐 Live Demo
+
+🎵 AI Music Generation
+
+LSTM-based music generation using deep learning
+
+An AI project exploring MIDI processing, sequence generation and LSTM neural networks to generate musical sequences.
+
+Tech: Python • TensorFlow • Keras • LSTM • music21
+
+🔗 View Repository
+📊 GitHub Analytics
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=arjeet16&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjeet16&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=arjeet16&theme=tokyonight&hide_border=true"/> </div>
+
+🎯 What I'm Working Toward
+<div align="center">
+
+DSA 🧠
+↓
+Strong Problem Solving
+↓
+Production-Quality Projects 🚀
+↓
+AI/ML + Full-Stack Development 🤖
+↓
+Software Engineering Roles 💻
+
+</div>
+🤝 Let's Connect
+
+I'm interested in Software Engineering, AI/ML, Full-Stack Development, DSA and building useful products.
+
+<div align="center"> <a href="https://arjeetsingh16.netlify.app/"> <img src="https://img.shields.io/badge/🌐%20Portfolio-6C63FF?style=for-the-badge"/> </a> <a href="https://www.linkedin.com/in/arjeet-singh/"> <img src="https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge"/> </a> <a href="mailto:arjeet.singh.cs27@iilm.edu"> <img src="https://img.shields.io/badge/📧%20Email-EA4335?style=for-the-badge"/> </a> </div>
+<div align="center">
+💡 Build. Learn. Solve. Repeat. 🚀
+
+⭐ Thanks for visiting my profile!
+
+</div> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=120&section=footer" width="100%"/> ```
