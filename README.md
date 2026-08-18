@@ -1,6 +1,13 @@
-# Hi 👋, I'm Arjeet Singh
+<div align="center">
 
-### 💻 Full-Stack Developer | 🤖 AI/ML Enthusiast | 🧠 DSA with Java
+# 👋 Hi, I'm Arjeet Singh
+
+### 💻 Full-Stack Developer • 🤖 AI/ML Enthusiast • 🧠 DSA with Java
+
+**Building real-world products | Solving problems | Learning every day**
+
+</div>
+
 
 🎓 4th Year B.Tech CSE Student  
 🚀 Building real-world products and intelligent applications  
