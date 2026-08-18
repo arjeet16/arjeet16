@@ -34,22 +34,34 @@ backend systems, databases and Artificial Intelligence.
 ## 🛠️ Tech Stack
 
 ### Languages
-Java • JavaScript • Python • SQL
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,python,sql" />
+</p>
 
 ### Frontend
-React • Vite • HTML • CSS • Chart.js
 
-### Backend
-Node.js • Express.js • Flask • REST APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,html,css" />
+</p>
 
-### Database
-MySQL
+### Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mysql" />
+</p>
 
 ### AI / Machine Learning
-Python • Scikit-learn • TensorFlow • Pandas • NumPy
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
 
 ### Tools
-Git • GitHub • VS Code • Postman
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
 ---
 
