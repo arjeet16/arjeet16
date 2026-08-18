@@ -48,6 +48,16 @@
 
 ---
 
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arjeet16&bg_color=0D1117&color=FFFFFF&line=DC143C&point=B22222&area=true&area_color=8B0000&hide_border=false&custom_title=Arjeet%27s%20GitHub%20Activity" width="95%"/>
+
+</div>
+
+---
+
 <div align="center">
 
 # 👋 Hey there, I'm Arjeet Singh
@@ -270,30 +280,6 @@ Currently strengthening **Data Structures & Algorithms with Java**.
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=arjeet16&theme=dark&background=0D1117&border=8B0000&ring=DC143C&fire=B22222&currStreakLabel=DC143C&sideLabels=FFFFFF&dates=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF" width="700"/>
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arjeet16&bg_color=0D1117&color=FFFFFF&line=DC143C&point=B22222&area=true&area_color=8B0000&hide_border=false&custom_title=Arjeet%27s%20GitHub%20Activity" width="95%"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arjeet16/arjeet16/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arjeet16/arjeet16/output/github-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/arjeet16/arjeet16/output/github-snake.svg" width="95%">
-</picture>
 
 </div>
 
